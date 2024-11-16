@@ -208,7 +208,7 @@ void loop() {
 * LED: Indica visualmente a detecção de fogo.
 
 ## 3. Hardware Utilizado
-###Componentes:
+### Componentes:
  * NodeMCU ESP8266: Microcontrolador com conectividade Wi-Fi.
  * Protoboard: Usada para montagem temporária do circuito.
  * Sensor de Chama KY-026: Detecta chamas e fontes de calor.
