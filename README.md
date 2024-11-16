@@ -233,10 +233,10 @@ void loop() {
      * Porta: 1883
      * Tópico: /feeds/alert
  ### Estrutura de Mensagens MQTT:
-     * Formato: Texto
-     * Exemplos:
-         * "Alerta de Incêndio!" (fogo detectado)
-         * "Nenhum incêndio detectado." (status normal)
+   * Formato: Texto
+   * Exemplos:
+       * "Alerta de Incêndio!" (fogo detectado)
+       * "Nenhum incêndio detectado." (status normal)
 ### Interface do Dashboard:
  * Adafruit IO:
      * Permite monitoramento em tempo real.
