@@ -24,7 +24,7 @@ const char* wifiSenha = "07071994";
 
 #define AIO_USUARIO       "Lucas_N" 
 
-#define AIO_CHAVE         "aio_mrud24f9wQbS2pEz43ZYqv7FVFYh" 
+ #define AIO_CHAVE         "aio_mrud24f9wQbS2pEz43ZYqv7FVFYh" 
 
   
 

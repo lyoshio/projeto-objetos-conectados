@@ -19,7 +19,7 @@ O sistema foi programado em C++ para a plataforma Arduino, utilizando biblioteca
 
 ### Código Principal:
 
-```cpp
+````cpp
 #include <ESP8266WiFi.h>
 #include <Adafruit_MQTT.h>
 #include <Adafruit_MQTT_Client.h>
@@ -54,6 +54,8 @@ void loop() {
   mqttCliente.ping();
   monitorarSensor();
 }
+
+```
 
 ## Documentação do Código:
 
@@ -114,4 +116,4 @@ Este projeto utiliza o protocolo MQTT para comunicação, garantindo leveza e ef
 
  #Autores: Lucas Nicoli Batista || Lucas Yoshio Gonçalves
  #Última Atualização: Novembro/2024
-```
+````
