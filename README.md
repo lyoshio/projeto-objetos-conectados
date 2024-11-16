@@ -55,7 +55,7 @@ void loop() {
   monitorarSensor();
 }
 
-```cpp
+````
 
 ## Documentação do Código:
 
