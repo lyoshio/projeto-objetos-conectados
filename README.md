@@ -114,6 +114,6 @@ Este projeto utiliza o protocolo MQTT para comunicação, garantindo leveza e ef
  * Detecção Multisensorial: Uso de sensores adicionais para maior precisão.
 
 
- ####Autores: Lucas Nicoli Batista || Lucas Yoshio Gonçalves
- ####Última Atualização: Novembro/2024
+ ###Autores: Lucas Nicoli Batista || Lucas Yoshio Gonçalves
+ ###Última Atualização: Novembro/2024
 ````
