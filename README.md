@@ -57,7 +57,7 @@ void loop() {
 
 ````
 
-## Documentação do Código:
+### Documentação do Código:
 
 * Wi-Fi: Configurado para conectar à rede local.
 * MQTT: Envia mensagens para o servidor Adafruit IO.
@@ -72,7 +72,7 @@ Componentes:
  * LED Vermelho: Alerta visual para situações de incêndio.
 
 
-# Especificações:
+### Especificações:
 
 | Componente       | Descrição                                   |
 |-------------------|--------------------------------------------|
@@ -89,12 +89,12 @@ Componentes:
     * Broker: Adafruit IO
      * Porta: 1883
      * Tópico: /feeds/alert
- # Estrutura de Mensagens MQTT:
+ ### Estrutura de Mensagens MQTT:
      * Formato: Texto
      * Exemplos:
          * "Alerta de Incêndio!" (fogo detectado)
          * "Nenhum incêndio detectado." (status normal)
-# Interface do Dashboard:
+### Interface do Dashboard:
  * Adafruit IO:
      * Permite monitoramento em tempo real.
      * Gráficos e indicadores visuais para acompanhamento do sistema.
@@ -103,7 +103,7 @@ Componentes:
 ## 5. Comunicação e Controle via Internet
 Este projeto utiliza o protocolo MQTT para comunicação, garantindo leveza e eficiência. A conectividade é mantida pela rede Wi-Fi do NodeMCU.
 
-# Fluxo de Comunicação:
+### Fluxo de Comunicação:
 1. Sensor KY-026 detecta a chama.
 2. Dados transmitidos para o servidor via MQTT.
 3. Dashboard Adafruit IO exibe os dados para o usuário em tempo real.
@@ -114,6 +114,6 @@ Este projeto utiliza o protocolo MQTT para comunicação, garantindo leveza e ef
  * Detecção Multisensorial: Uso de sensores adicionais para maior precisão.
 
 
- #Autores: Lucas Nicoli Batista || Lucas Yoshio Gonçalves
- #Última Atualização: Novembro/2024
+ ####Autores: Lucas Nicoli Batista || Lucas Yoshio Gonçalves
+ ####Última Atualização: Novembro/2024
 ````
