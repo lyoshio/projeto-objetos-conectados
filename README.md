@@ -226,7 +226,7 @@ void loop() {
 
 
 ## 4. Documentação das Interfaces e Protocolos
- # Comunicação:
+ ### Comunicação:
  * Wi-Fi (IEEE 802.11): Conexão do NodeMCU ao roteador local.
  * MQTT (Message Queuing Telemetry Transport):
     * Broker: Adafruit IO
